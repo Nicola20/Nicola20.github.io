@@ -1,0 +1,26 @@
+.head-line {
+    font-size: 2em;
+}
+
+#score-container {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top: 5%;
+}
+
+#score-container > div > div {
+  background-color: #f1f1f1;
+  margin: 10px 40px;
+  padding: 50px;
+  font-size: 3em;
+  border-radius: 12px;
+}
+
+p {
+    font-size: 1.6em;
+}
+
+.scoring-value {
+    font-size: 1em;
+}

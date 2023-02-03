@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+body {
+    margin: 0px;
+    font-family: 'Quicksand';
+    -webkit-text-size-adjust: none;
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#progress {
+    font-size: 1.3em;
+}
+
+#question {
+    font-size: 1.5em;
+    margin: auto!;
+}
+
+#sidebar {
+    width: 10%;
+    height: 100vh;
+    background: #ccc;
+    float: left;
+    margin-top: 0px;
+}
+
+.content-container {
+    width: 90%;
+    margin-top: 0px;
+    float: right;
+    padding-top: 5%;
+}
+
+.details-container {
+    margin-top: 4%;
+    padding: 0% 15% 0% 15%;
+}
+
+#question-form {
+    padding: 0%;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.choice-field {
+    display: flex;
+    align-items: center;
+    background: #e6e6e6;
+    padding: 5px 5px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.single-choice-field {
+        border-radius: 100px;
+}
+
+.choice-field:hover {
+    background: #d9d9d9;
+}
+
+.choice-text {
+    padding: 0px 0px 0px 10px;
+}
+
+
+.input-field {
+    background-color: #e6e6e6;
+    vertical-align: middle;
+    border: 1px solid #a6a6a6;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: auto;
+    margin-top: 1%;
+    font-size: 1em;
+}
+
+/* button design */
+#next-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0px 20px 20px 0px;
+    padding: 10px 15px 10px 15px;
+    font-family: 'Quicksand';
+    font-size: 1em;
+    padding: 12px 20px; /* Some padding */
+    font-size: 18px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    border: none; /* Remove borders */
+    border-radius: 4px;
+}
+
+#next-container:hover {
+    background: #d9d9d9;
+}
+
+
+.fa-solid {
+    margin-left: 10px;
+}
+

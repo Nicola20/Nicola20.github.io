@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.continue-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7em 2em;
+    font-family: 'Quicksand';
+    -webkit-text-size-adjust: none;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+    margin: 20px;
+    border-color: transparent;
+    transition: background-color 0.3s ease-in-out
+}
+
+#button-container {
+    transform: translate(45%, 0%);
+}
+
+
+.continue-button:hover {
+    background-color: #60605e;
+    color: white;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+#welcome-text {
+    margin: 20px;
+    font-family: 'Quicksand';
+    text-align: center;
+    font-size: 16px;
+}

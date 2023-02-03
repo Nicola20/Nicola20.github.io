@@ -1,0 +1,1669 @@
+[
+    {
+        "id": 1,
+        "answer type": "single choice",
+        "placement": 1,
+        "question text": "Does your company have an environmental representative?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    0.0,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "answer": "No, because we do not have the resources",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    0.0,
+                    -0.2,
+                    -0.7
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "answer type": "single choice",
+        "placement": 2,
+        "question text": "Does your company encourage employees to adopt Green Traveling pratices?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes,we arrange reward program for employees who adopt eco-friendly traveling",
+                "values": [
+                    0.0,
+                    3.0,
+                    3.0
+                ]
+            },
+            {
+                "answer": "No, we do not particularly focus on this sector",
+                "values": [
+                    0.0,
+                    -2.6,
+                    -2.6
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "answer type": "multiple choice",
+        "placement": 3,
+        "question text": "Does your company have a mobility concept for their employees to reach their workplace?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Leasing of bycicles",
+                "values": [
+                    1.0,
+                    1.5,
+                    0.6
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Car Sharing programm",
+                "values": [
+                    1.0,
+                    -1.0,
+                    0.6
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Mobility money for public transport",
+                "values": [
+                    1.0,
+                    2.9,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "fuel vouchers",
+                "values": [
+                    1.0,
+                    -0.6,
+                    0.6
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other",
+                "values": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We have no concept because we do not have the resources",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": true
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    -0.6,
+                    0.0,
+                    -0.1
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "answer type": "single choice",
+        "placement": 4,
+        "question text": "How does your company usually holds business meetings with external people (f.e. stakeholders outside of the company)?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We always hold meetings in person",
+                "values": [
+                    -0.5,
+                    -2.5,
+                    -0.1
+                ]
+            },
+            {
+                "answer": "We try to hold online meetings when the involved people would have to travel longer distances",
+                "values": [
+                    0.5,
+                    2.0,
+                    1.9
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "answer type": "multiple choice",
+        "placement": 5,
+        "question text": "For what aspects of the workplace does your company have a concept to save energy and resources? ",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Heating",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Draughts",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Electricity",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Hardware",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "General office supplies like paper etc.",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Water",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Production patterns",
+                "values": [
+                    0.5,
+                    2.5,
+                    2.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    0.0,
+                    -3.0,
+                    -2.5
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "answer type": "single choice",
+        "placement": 6,
+        "question text": "What does your company do with the old hardware when you exchange them for new harware?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We donate them to charities and/or other organizations",
+                "values": [
+                    2.0,
+                    2.6,
+                    2.4
+                ]
+            },
+            {
+                "answer": "We make sure that they are recycled",
+                "values": [
+                    0.0,
+                    2.5,
+                    2.0
+                ]
+            },
+            {
+                "answer": "We just expose of them",
+                "values": [
+                    0.0,
+                    -1.3,
+                    -1.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "answer type": "int input",
+        "placement": 7,
+        "question text": "What percentage of your company's energy consumption comes from renewable sources?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "value range": [
+            0.0,
+            100.0
+        ],
+        "mapping range": {
+            "social": [
+                0.0,
+                0.0
+            ],
+            "ecological": [
+                -2.0,
+                3.0
+            ],
+            "economical": [
+                -2.0,
+                3.0
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "answer type": "single choice",
+        "placement": 8,
+        "question text": "Does your company produce some amount of renewable energy through e.g. solar panels?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    0.0,
+                    1.0,
+                    0.7
+                ]
+            },
+            {
+                "answer": "No, we don't because we can't",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    0.0,
+                    -0.3,
+                    0.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "answer type": "multiple choice",
+        "placement": 9,
+        "question text": "What factors does your company pay attention to when buying new hadware?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We try to buy from suppliers with green certificates",
+                "values": [
+                    0.0,
+                    2.7,
+                    2.4
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We look for hardware that has the best energy consumption vs. needed functionality ratio",
+                "values": [
+                    0.0,
+                    2.4,
+                    2.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We try to exchange hardware only if necessary",
+                "values": [
+                    0.0,
+                    2.7,
+                    2.7
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We try to extend our equipment only if necessary",
+                "values": [
+                    0.0,
+                    1.0,
+                    2.6
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other",
+                "values": [
+                    0.0,
+                    1.0,
+                    1.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    0.0,
+                    -1.5,
+                    -2.3
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "answer type": "multiple choice",
+        "placement": 10,
+        "question text": "How does your company ensure that its software is designed with sustainability in mind?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We have a specific sustainability guidelines in our development process.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We conduct regular impact assessments on the environmental and social impact of our software.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We use sustainable design principles such as circular economy and responsible consumption in our software design.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We have a process in place to integrate feedback from stakeholders such as users, communities, and experts",
+                "values": [
+                    0.0,
+                    3.0,
+                    3.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other ",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We do not have the resources for this",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": true
+            },
+            {
+                "answer": "We do not consider this",
+                "values": [
+                    0.0,
+                    -3.0,
+                    -2.9
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "answer type": "single choice",
+        "placement": 11,
+        "question text": "Does your company's software have any features that support circular economy?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, it does",
+                "values": [
+                    0.0,
+                    2.8,
+                    2.6
+                ]
+            },
+            {
+                "answer": "No, it doesn't",
+                "values": [
+                    0.0,
+                    -2.8,
+                    -2.6
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "answer type": "multiple choice",
+        "placement": 12,
+        "question text": "How does your company ensure that its software development process is energy efficient?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We use renewable energy sources for our servers and data centers.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We use energy-efficient hardware and employ power management techniques.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We regularly monitor and reduce our energy consumption.",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We offset our carbon emissions through carbon offset projects",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other ",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    0.0,
+                    -3.0,
+                    -2.9
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "answer type": "single choice",
+        "placement": 13,
+        "question text": "Does your company monitor the real-time energy consumption of an application to identify software modules that can be optimized to produce fewer emissions?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do for all projects and products",
+                "values": [
+                    0.0,
+                    2.8,
+                    2.0
+                ]
+            },
+            {
+                "answer": "Yes, we do it sometimes",
+                "values": [
+                    0.0,
+                    2.4,
+                    1.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    0.0,
+                    -1.5,
+                    -2.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "answer type": "multiple choice",
+        "placement": 14,
+        "question text": "What measurements does your company take to make the storing and accessing of data more energy efficient?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Reducing data volume and eliminating redundant data through de-duplication and compression",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Switching to fewer higher-capacity disks",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Increasing disk utilisation",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Moving rarely accessed data to tape",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Backing up to tape rather than to disk",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Virtualising and consolidating storage",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Others",
+                "values": [
+                    0.0,
+                    2.0,
+                    0.8
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    0.0,
+                    -1.0,
+                    -0.7
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "answer type": "single choice",
+        "placement": 15,
+        "question text": "Does your company consider the best programming language for the projects purposes regarding the trade-off between the energy efficiency and the features/application areas of the language? ",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do this whenever possible",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.7
+                ]
+            },
+            {
+                "answer": "We do not have enough specialized employees to do this",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we do not consider this",
+                "values": [
+                    0.0,
+                    -3.0,
+                    -2.7
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "answer type": "single choice",
+        "placement": 16,
+        "question text": "When developing software, does your company try to find the best balance between the run time, effectiveness and the energy efficiency of the product?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    0.0,
+                    3.0,
+                    2.7
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    0.0,
+                    -3.0,
+                    -2.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "answer type": "single choice",
+        "placement": 17,
+        "question text": "Does your company offer good project management and frequent reviews of projects to reduce stress on employees and improve the quality of producs and services?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do this for all projects",
+                "values": [
+                    1.4,
+                    0.3,
+                    1.9
+                ]
+            },
+            {
+                "answer": "Yes, we do this for most projects",
+                "values": [
+                    1.3,
+                    0.2,
+                    1.8
+                ]
+            },
+            {
+                "answer": "Yes, we do this occasionally",
+                "values": [
+                    1.0,
+                    0.1,
+                    1.5
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -1.0,
+                    -0.4,
+                    -1.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "answer type": "multiple choice",
+        "placement": 18,
+        "question text": "How does your company ensure that its software is easy to upgrade, repair, and recycle?",
+        "categories": [
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We design our software with modularity and upgradeability in mind",
+                "values": [
+                    0.0,
+                    2.3,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We provide repair and upgrade instructions and support",
+                "values": [
+                    0.0,
+                    2.3,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We have a process in place for software end-of-life management",
+                "values": [
+                    0.0,
+                    2.3,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We have a process in place for software data migration and preservation",
+                "values": [
+                    0.0,
+                    2.3,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other ",
+                "values": [
+                    0.0,
+                    2.3,
+                    2.9
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    0.0,
+                    -2.3,
+                    -2.9
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "answer type": "single choice",
+        "placement": 19,
+        "question text": "Does your company offer any training or support for its software?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    2.3,
+                    1.0,
+                    2.3
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -2.0,
+                    -1.0,
+                    -2.3
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "answer type": "multiple choice",
+        "placement": 20,
+        "question text": "How does your company ensure that its software is accessible to people with disabilities?",
+        "categories": [
+            "social"
+        ],
+        "answers": [
+            {
+                "answer": "We have a specific accessibility guidelines in our development process.",
+                "values": [
+                    2.6,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We conduct regular accessibility testing and audits",
+                "values": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We have a process in place to integrate feedback from users with disabilities",
+                "values": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "We comply with accessibility standards such as WCAG",
+                "values": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other",
+                "values": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    -2.5,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "answer type": "single choice",
+        "placement": 21,
+        "question text": "Does your company built its software to run on multiple operating systems?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we create software that runs independent from the OS",
+                "values": [
+                    2.4,
+                    2.5,
+                    2.0
+                ]
+            },
+            {
+                "answer": "Yes, we create software that runs on multiple OS",
+                "values": [
+                    2.0,
+                    2.3,
+                    2.0
+                ]
+            },
+            {
+                "answer": "No, our software only runs on specific OS because this is how our company makes money",
+                "values": [
+                    -1.9,
+                    -0.5,
+                    1.5
+                ]
+            },
+            {
+                "answer": "No, we do not consider this",
+                "values": [
+                    -1.4,
+                    -1.6,
+                    0.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "answer type": "single choice",
+        "placement": 22,
+        "question text": "Does your company's software have any features that promote digital well-being?",
+        "categories": [
+            "social"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, it does",
+                "values": [
+                    2.6,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, it doesn't",
+                "values": [
+                    -2.6,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "answer type": "single choice",
+        "placement": 23,
+        "question text": "Does your company publish a sustainability report on an annual basis?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    0.1,
+                    1.0,
+                    1.5
+                ]
+            },
+            {
+                "answer": "Yes, we publish one but not annually",
+                "values": [
+                    0.1,
+                    0.7,
+                    1.3
+                ]
+            },
+            {
+                "answer": "No, we don't because we do not have the resources",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.1,
+                    -0.8,
+                    -1.2
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "answer type": "single choice",
+        "placement": 24,
+        "question text": "Does your company educate their employees to act more sustainable? (e.g. Turning off their PCs after work, printing behaviour etc.)",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    0.7,
+                    2.6,
+                    2.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.7,
+                    -1.6,
+                    -1.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "answer type": "single choice",
+        "placement": 25,
+        "question text": "Does your company provide further education for their employees?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, on a regular basis",
+                "values": [
+                    2.5,
+                    0.4,
+                    2.0
+                ]
+            },
+            {
+                "answer": "Yes, occasionally",
+                "values": [
+                    1.6,
+                    0.1,
+                    1.6
+                ]
+            },
+            {
+                "answer": "No, we don't because we do not have the possibilities",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -1.0,
+                    -0.2,
+                    -1.9
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "answer type": "single choice",
+        "placement": 26,
+        "question text": "Does your company have a policy in place to promote fair wages and benefits for employees?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    2.0,
+                    0.0,
+                    2.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -2.0,
+                    0.0,
+                    -1.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "answer type": "single choice",
+        "placement": 27,
+        "question text": "Does your company have a policy in place to promote diversity, equity and inclusion?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    3.0,
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.8,
+                    0.0,
+                    -0.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "answer type": "single choice",
+        "placement": 28,
+        "question text": "Does your company have a code of conduct in place to prevent discrimination and harassment in the workplace?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    2.5,
+                    0.0,
+                    1.8
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -1.0,
+                    0.0,
+                    -1.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "answer type": "single choice",
+        "placement": 29,
+        "question text": "Does your company have a policy in place to support employees with disabilities?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    -0.8,
+                    0.0,
+                    -0.5
+                ]
+            },
+            {
+                "answer": "No, we don't because it is not possible for us",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -1.0,
+                    0.0,
+                    -1.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "answer type": "single choice",
+        "placement": 30,
+        "question text": "Does your company give the employees the possibility to work from home?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we offer homeoffice whenever possible",
+                "values": [
+                    2.5,
+                    1.3,
+                    2.2
+                ]
+            },
+            {
+                "answer": "No, homeoffice is not realizable for us",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't want to provide homeoffice",
+                "values": [
+                    -2.0,
+                    -1.0,
+                    -1.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "answer type": "multiple choice",
+        "placement": 31,
+        "question text": "What measures does your company take to support working parents or caregivers?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Internal daycare for children",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Subsidy for external daycare for children",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.4
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Homeoffice whenever needed and possible",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Flexible workinghours",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.4
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Trust working hours",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.5
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Free social counseling",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.4
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "Other",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.0
+                ],
+                "exclusive": false
+            },
+            {
+                "answer": "None is possible for us",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "exclusive": true
+            },
+            {
+                "answer": "None of the above",
+                "values": [
+                    -1.0,
+                    0.0,
+                    -1.0
+                ],
+                "exclusive": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "answer type": "single choice",
+        "placement": 32,
+        "question text": "How does your company ensure that its services do not have a negative impact on vulnerable communities?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "We have specific plans in place ",
+                "values": [
+                    2.7,
+                    0.5,
+                    2.0
+                ]
+            },
+            {
+                "answer": "We conduct regular impact assessments ",
+                "values": [
+                    2.5,
+                    0.5,
+                    1.7
+                ]
+            },
+            {
+                "answer": "We occasionally conduct impact asessments",
+                "values": [
+                    2.3,
+                    0.5,
+                    1.4
+                ]
+            },
+            {
+                "answer": "We do not have the resources ",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "We do not consider this",
+                "values": [
+                    -1.5,
+                    -0.5,
+                    -1.2
+                ]
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "answer type": "single choice",
+        "placement": 33,
+        "question text": "If designed for the broad public, does your company make its software accessible to low-income communities?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we try to make it accessible to as many people as possible",
+                "values": [
+                    2.6,
+                    1.0,
+                    2.0
+                ]
+            },
+            {
+                "answer": "No, this is not possible for us",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -2.0,
+                    -0.2,
+                    -2.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "answer type": "single choice",
+        "placement": 34,
+        "question text": "Does your company have a policy in place to support the local economy where it operates?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    3.0,
+                    0.7,
+                    1.4
+                ]
+            },
+            {
+                "answer": "No, we do not have the resources",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.6,
+                    -0.7,
+                    0.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "answer type": "single choice",
+        "placement": 35,
+        "question text": "Does your company have a policy in place to support sustainable and responsible investment?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    2.9,
+                    3.0,
+                    3.0
+                ]
+            },
+            {
+                "answer": "No, we do not have the resources",
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.7,
+                    -2.0,
+                    -2.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "answer type": "single choice",
+        "placement": 36,
+        "question text": "Does your company's software have any features that promote environmental and social sustainability?",
+        "categories": [
+            "social",
+            "ecological",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, it does",
+                "values": [
+                    2.6,
+                    2.6,
+                    3.0
+                ]
+            },
+            {
+                "answer": "No, it doesn't",
+                "values": [
+                    -2.6,
+                    -2.6,
+                    -2.5
+                ]
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "answer type": "single choice",
+        "placement": 37,
+        "question text": "Does your company support and encourage employee volunteerism or community engagement?",
+        "categories": [
+            "social",
+            "economical"
+        ],
+        "answers": [
+            {
+                "answer": "Yes, we do",
+                "values": [
+                    2.7,
+                    0.0,
+                    1.0
+                ]
+            },
+            {
+                "answer": "No, we don't",
+                "values": [
+                    -0.4,
+                    0.0,
+                    0.0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "answer type": "int input",
+        "placement": 38,
+        "question text": "What percentage of the company's profit is donated to charities, NGOs and other social organizations?",
+        "categories": [
+            "social"
+        ],
+        "value range": [
+            0.0,
+            100.0
+        ],
+        "mapping range": {
+            "social": [
+                0.0,
+                3.0
+            ],
+            "ecological": [
+                0.0,
+                0.0
+            ],
+            "economical": [
+                0.0,
+                0.0
+            ]
+        }
+    }
+]
